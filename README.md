@@ -86,5 +86,3 @@ All generated **plots** will be stored in the `/plots` folder and trained **mode
 
 
 
-Would you like me to create this as a **ready-to-upload `README.md` file** (so you can just drag it into your GitHub repo)?
-
